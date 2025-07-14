@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="pics/cover_page.jpg" width="300" style="margin-bottom: 0.2;"/>
-<p>
-
 <h2 align="center"> FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces</h2>
 <!-- <h5 align="center"> If you like our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.  </h2> -->
 
