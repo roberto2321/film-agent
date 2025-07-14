@@ -2,35 +2,13 @@
     <img src="pics/cover_page.jpg" width="300" style="margin-bottom: 0.2;"/>
 <p>
 
-<h2 align="center"> <a href="https://github.com/HITsz-TMG/FilmAgent">FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces</a></h2>
+<h2 align="center"> FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces</h2>
 <!-- <h5 align="center"> If you like our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.  </h2> -->
-<h4 align="center">
 
-<div align="center">
-<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
-<img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License">
-<img src="https://img.shields.io/github/stars/HITsz-TMG/FilmAgent?color=yellow" alt="Stars">
-<img src="https://img.shields.io/github/issues/HITsz-TMG/FilmAgent?color=red" alt="Issues">
-<img src="https://img.shields.io/badge/python-3.8-purple.svg" alt="Python">
-
-<!-- <img src="https://img.shields.io/github/stars/AIDC-AI/Marco-o1?color=yellow" alt="Stars"> -->
-
-<!-- [![Project Page](https://img.shields.io/badge/Project_Page-FilmAgent-blue)](https://filmagent.github.io/)
-[![Project Page](https://img.shields.io/badge/Paper-Arxiv-yellow)](https://arxiv.org/abs/2501.12909)
-[![Project Page](https://img.shields.io/badge/Video-Youtube-red)](https://www.youtube.com/watch?v=hTI-0777iHU)
-![Gitea Stars](https://img.shields.io/gitea/stars/HITsz-TMG/FilmAgent) -->
-
-</h4>
 
 <div align="center">
 
 <!-- **Affiliations:** -->
-
-_**Zhenran Xu, Longyue Wang, Jifang Wang, Zhouyi Li, Senbao Shi, Xue Yang, Yiyu Wang, Baotian Hu, Jun Yu, Min Zhang**_
-
-🎯  [**Project Page**](https://filmagent.github.io)  :octocat:  [**Code**](https://github.com/HITsz-TMG/FilmAgent)  📝  [**Paper**](https://arxiv.org/abs/2501.12909) 🧑‍💻  [**Slides**](https://filmagent.github.io/static/SA24_FilmAgent.pdf)  📽️  [**Video**](https://www.youtube.com/watch?v=hTI-0777iHU)
-
-<a href="https://trendshift.io/repositories/12871" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12871" alt="HITsz-TMG%2FFilmAgent | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 </div>
 
@@ -39,23 +17,9 @@ _**Zhenran Xu, Longyue Wang, Jifang Wang, Zhouyi Li, Senbao Shi, Xue Yang, Yiyu 
 **FilmAgent** is a multi-agent collaborative system for end-to-end film automation in 3D virtual spaces. 
 FilmAgent simulates key crew roles—directors, screenwriters, actors, and cinematographers, and integrates efficient human workflows within a sandbox environment.
 
-<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/intro.png" height="100%" width="78%"/></div>
-
-## 💥 News
-
-- `2025/2/24`: 🚀 We have integrated **DeepSeek**-v3 and r1 for model selection, allowing for more sophisticated decision-making processes.
-- `2025/2/11`: 🎬 We’ve just released a fan-made video about ***NeZha2***, in celebration of its record-breaking success at the box office. Click the image below to watch the video! 👇
-  [<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/nezha_youtube.png" width="450"></div>](https://www.youtube.com/watch?v=jY3n-AzBtUQ)
-- `2025/1/23`:  🙌 We're excited that FilmAgent is recommended by [AK](https://x.com/_akhaliq/status/1882268452716728789), [el.cine](https://x.com/EHuanglu/status/1882294685919772928) and [Theoretically Media](https://www.youtube.com/watch?v=0ebXKegfxWk&t=899s). Thanks!
-- `2025/1/22`: 📄 Our paper is now accessible at https://arxiv.org/abs/2501.12909.
-
-
-
 ## 🚀 Framework
 
 Following the traditional film studio workflow, we divide the whole film automation process into three sequential stages: idea development, scriptwriting and cinematography, and apply the **Critique-Correct-Verify**, **Debate-Judge** collaboration strategies. After these stages, each line in the script is specified with the positions of the actors, their actions, their dialogue, and the chosen camera shots.
-
-<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/framework.png" height="100%" width="85%"/></div>
 
 ## 🌟 Build Your own Film with FilmAgent
 
